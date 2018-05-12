@@ -1,0 +1,37 @@
+_repo: Animal-Figures-in-the-Maya-Codices_19042
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Tozzer, Alfred M. (Alfred Marston)
+    birthdate: 1877
+    deathdate: 1954
+    gutenberg_agent_id: '8425'
+    url: http://www.gutenberg.org/2009/agents/8425
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Marston_Tozzer
+  - agent_name: Allen, Glover M. (Glover Morrill)
+    birthdate: 1879
+    deathdate: 1942
+    gutenberg_agent_id: '8426'
+    url: http://www.gutenberg.org/2009/agents/8426
+    wikipedia: http://en.wikipedia.org/wiki/Glover_Morrill_Allen
+description: ''
+gutenberg_bookshelf: Anthropology
+gutenberg_issued: '2006-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19042'
+  lccn: '10023192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mayan languages -- Writing'
+- !lcc 'F1401'
+- !lcsh 'Mayas -- Antiquities'
+- !lcc 'E011'
+title: Animal Figures in the Maya Codices
+url: http://www.gutenberg.org/ebooks/19042
